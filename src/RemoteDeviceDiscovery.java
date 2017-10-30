@@ -8,7 +8,7 @@ import javax.bluetooth.*;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.ResultSet;
 import com.mysql.jdbc.Statement;
-//test test2
+
 public class RemoteDeviceDiscovery {
 
 	 public static final Vector/*<RemoteDevice>*/ devicesDiscovered = new Vector();
